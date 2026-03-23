@@ -9,7 +9,7 @@
 [![PocketBase](https://img.shields.io/badge/PocketBase-0.22-orange)](https://pocketbase.io/)
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Resume+Builder+Screenshot" alt="Resume Builder Screenshot" width="800">
+  <img src="https://drive.google.com/file/d/1TpyNY5zyeQkwzn0hqAIinIxPnECjzqrv/view?usp=sharing" alt="Resume Builder Screenshot" width="800">
 </p>
 
 ---
